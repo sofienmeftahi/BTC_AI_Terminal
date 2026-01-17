@@ -103,10 +103,10 @@ streamlit run app.py
 ---
 
 ## 👤 Author
-**Project Created by Sofien | Data Science Enthusiast**
+**Project Created by Sofien Meftahi | Data Science & Data Analyst**
 
 If you want to see more of my work and explore my professional background:
-🚀 **Visit my Portfolio:** [Sofien Meftahi Studio | Data Analyst & BI Developer](https://sofien-meftahi-studio.framer.website/)
+🚀 **Visit my Portfolio:** (https://sofienmeftahi.studio/)
 
 ---
 *Stay connected and feel free to reach out for collaborations!*
